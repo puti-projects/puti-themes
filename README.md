@@ -1,3 +1,3 @@
 # Puti-themes
 
-official themes builder for puti
+official themes builder tool for puti
