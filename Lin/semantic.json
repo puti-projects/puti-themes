@@ -8,12 +8,12 @@
       "themes": "src/themes/"
     },
     "output": {
-      "packaged": "../../../theme/Lin/semantic/",
-      "uncompressed": "../../../theme/Lin/semantic/components/",
-      "compressed": "../../../theme/Lin/semantic/components/",
-      "themes": "../../../theme/Lin/semantic/themes/"
+      "packaged": "../../../theme/Lin/public/semantic/",
+      "uncompressed": "../../../theme/Lin/public/semantic/components/",
+      "compressed": "../../../theme/Lin/public/semantic/components/",
+      "themes": "../../../theme/Lin/public/semantic/themes/"
     },
-    "clean": "../../../theme/Lin/semantic/"
+    "clean": "../../../theme/Lin/public/semantic/"
   },
   "permission": false,
   "autoInstall": false,

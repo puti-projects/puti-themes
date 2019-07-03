@@ -11,4 +11,4 @@ cd semantic
 glup build
 ```
 
-The dist path is  `../../../theme/Lin/semantic/`, it would be `puti/theme/Lin/semantic/`
+The dist path is  `../../../theme/Lin/public/semantic/`, it would be `puti/theme/Lin/public/semantic/`
