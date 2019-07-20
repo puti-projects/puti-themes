@@ -2,4 +2,6 @@
      User Global Variables
 *******************************/
 
+@fontName          : 'Microsoft YaHei';
+@importGoogleFonts : false;
 @fontSize : 14px;

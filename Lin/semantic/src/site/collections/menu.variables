@@ -4,3 +4,6 @@
 
 @attachedBorder: none;
 @boxShadow: none;
+
+@border: 0px;
+@borderRadius: 0em;
